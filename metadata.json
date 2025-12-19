@@ -1,0 +1,7 @@
+{
+  "name": "梦幻剧组探班生成器",
+  "description": "通过AI技术，将您的照片无缝融合进各大经典电影剧组，生成与巨星合影的探班瞬间。支持批量生成、下载及单张重绘。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
